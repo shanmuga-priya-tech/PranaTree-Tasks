@@ -25,4 +25,14 @@
 ## Basic Calculator for Two Numbers
 
 ![basic_calc_output](images/basic_calc.png)
+
+## Calcultor for Multiple Numbers
+
 ![calc_output](images/calc.png)
+
+## Sentiment Analysis
+
+- Requirements:
+  - nltk, Tabulate
+
+![sentimentAnalysis_output](images/sentiment_analysis.png)
