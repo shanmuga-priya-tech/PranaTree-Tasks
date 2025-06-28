@@ -21,3 +21,7 @@
 - Majority Element - https://leetcode.com/problems/majority-element/submissions/1678823004/
 
 - FizzBuzz - https://leetcode.com/problems/majority-element/submissions/1678823004/
+
+## Basic Calculator for Two Numbers
+
+![basic_calc_output](images/basic_calc.png)
