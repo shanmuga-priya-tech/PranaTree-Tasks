@@ -25,3 +25,4 @@
 ## Basic Calculator for Two Numbers
 
 ![basic_calc_output](images/basic_calc.png)
+![calc_output](images/calc.png)
