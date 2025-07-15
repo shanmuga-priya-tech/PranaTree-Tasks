@@ -2,6 +2,7 @@ import bcrypt
 import getpass
 import os
 
+#getting the stored password file
 PASSWORD_FILE = "password.txt"
 
 def hash_password(password):

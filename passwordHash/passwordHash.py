@@ -1,5 +1,5 @@
+#simple password hashing
 import bcrypt
-
 
 #function to hash password
 def hashPassword(pwd):
